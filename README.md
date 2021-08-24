@@ -1,6 +1,13 @@
-### Hi there 👋
+# Christoph
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tuergeist)](https://github.com/ryo-ma/github-profile-trophy)
+* Test Driven Software Developer at heart
+* He, him ,his
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tuergeist&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuergeist)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **tuergeist/tuergeist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
