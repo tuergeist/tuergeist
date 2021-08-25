@@ -1,7 +1,32 @@
 # Christoph
 
 * Test Driven Software Developer at heart
-* He, him ,his
+```christoph_becker = {
+    "Pronouns": ["He", "Him", "His"],
+    "Ask Me About": ["Python Development", "Machine Learning", "End-to-end Product Development],
+    "Languages": [
+        "Python",
+        "Bash",
+        "JavaScript",
+        "Java",
+        "C++",
+    ],
+    "Technologies": {
+        "Backend": ["Flask", "Django", "Sanic", "SQLAlchemy", "Express"],
+        "Frontend": ["HTML with CSS :)"],
+        "Database": ["MySQL", "MongoDB", "PostgreSQL", "MariaDB"],
+        "Serverless": ["AWS Lambda", "Heroku", "Dokku"],
+        "Dev Ops": ["AWS", "GitHub", "GitLab", "Docker", "Docker swarm"],
+        "Operating Systems": ["Linux", "macOS"],
+    },
+    "Other": {
+      "Agile_methods": ["Scrum", "Kanban", "XP"],
+    }
+}
+```
+
+- 🔭 I’m currently working on a Browser extention for Network-Box to indicate whether or not a site is safe
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tuergeist&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
