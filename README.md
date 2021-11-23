@@ -12,9 +12,9 @@
         "C++",
     ],
     "Technologies": {
-        "Backend": ["Flask", "Django", "Sanic", "SQLAlchemy", "Express"],
+        "Backend": ["Flask", "Django", "DRF", "Sanic", "SQLAlchemy"],
         "Frontend": ["HTML with CSS :)"],
-        "Database": ["MySQL", "MongoDB", "PostgreSQL", "MariaDB"],
+        "Database": ["PostgreSQL", "RDS", "MariaDB", "MySQL", "MongoDB"],
         "Serverless": ["AWS Lambda", "Heroku", "Dokku"],
         "Dev Ops": ["AWS", "GitHub", "GitLab", "Docker", "Docker swarm"],
         "Operating Systems": ["Linux", "macOS"],
