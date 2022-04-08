@@ -25,7 +25,7 @@
 }
 ```
 
-- 🔭 I’m currently working on a Browser extention for Network-Box to indicate whether or not a site is safe
+- 🔭 I built a browser extention plus backend for Network-Box to indicate whether or not a site is safe. --> https://www.network-box.eu/loesungen/nb-detector/ 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tuergeist&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
