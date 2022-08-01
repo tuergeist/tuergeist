@@ -12,7 +12,7 @@
         "C++",
     ],
     "Technologies": {
-        "Backend": ["Flask", "Django", "DRF", "Sanic", "SQLAlchemy"],
+        "Backend": ["fastAPI", "Flask", "Django", "DRF", "Sanic", "SQLAlchemy"],
         "Frontend": ["HTML with CSS :)"],
         "Database": ["PostgreSQL", "RDS", "MariaDB", "MySQL", "MongoDB"],
         "Serverless": ["AWS Lambda", "Heroku", "Dokku"],
