@@ -3,7 +3,7 @@
 * Test Driven Software Developer at heart
 ```christoph_becker = {
     "Pronouns": ["He", "Him", "His"],
-    "Ask Me About": ["Python Development", "Machine Learning", "End-to-end Product Development],
+    "Ask Me About": ["Python Development", "Machine Learning", "End-to-end Product Development", "Agentic coding"],
     "Languages": [
         "Python",
         "Bash",
@@ -17,10 +17,10 @@
         "Database": ["PostgreSQL", "RDS", "MariaDB", "MySQL", "MongoDB"],
         "Serverless": ["AWS Lambda", "Heroku", "Dokku"],
         "Dev Ops": ["AWS", "GitHub", "GitLab", "Docker", "Docker swarm"],
-        "Operating Systems": ["Linux", "macOS"],
+        "Operating Systems": ["Linux", "macOS", "nixOS"],
     },
     "Other": {
-      "Agile_methods": ["Scrum", "Kanban", "XP"],
+      "Agentic coding": ["All", "of", "those", "agents"],
     }
 }
 ```
